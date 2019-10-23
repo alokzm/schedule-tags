@@ -1,5 +1,5 @@
 === Schedule Tags ===
-Contributors: zetamatic
+Contributors: alokzm
 Tags: schedule tags, expired tags, dynamic tags, custom tags, future tags, tags
 Requires at least: 4.0
 Tested up to: 5.2
